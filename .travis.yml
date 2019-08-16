@@ -2,4 +2,4 @@ language: bash
 
 script:
   - sleep 20
-  - "true"
+  - "false"
